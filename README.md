@@ -1,1 +1,1 @@
-# static-hello-world
+# Demo app to build Static Image
