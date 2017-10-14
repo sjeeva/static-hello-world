@@ -1,1 +1,2 @@
 language: c
+build: gcc hello-world.c
